@@ -1,0 +1,39 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "O labirinto do Logcat",
+            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
+            "link": "https://www.youtube.com/embed/ypvGqZGJBls",
+            "categoria": "Front-End"
+        },
+        {
+            "id": 2,
+            "titulo": "Um componente no espaço",
+            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
+            "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ",
+            "categoria": "Front-End"
+        },
+        {
+            "id": 3,
+            "titulo": "O poderoso JavaScript",
+            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
+            "link": "https://www.youtube.com/embed/N1BSG02z-Mw",
+            "categoria": "Front-End"
+        },
+        {
+            "id": 4,
+            "titulo": "Dart, o Caçador de Andróides",
+            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
+            "link": "https://www.youtube.com/embed/LLmBWjF6F8M",
+            "categoria": "Front-End"
+        },
+        {
+            "id": 5,
+            "titulo": "Dart, o Caçador de Andróides",
+            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
+            "link": "https://www.youtube.com/embed/LLmBWjF6F8M",
+            "categoria": "Front-End"
+        }
+    ]
+}
