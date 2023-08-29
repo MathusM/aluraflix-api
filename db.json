@@ -35,5 +35,14 @@
             "link": "https://www.youtube.com/watch?v=ZY3-MFxVdEw&list=RDCMUCo7EHzKF2zDFWszw7Dg4mPw&index=13",
             "categoria": "Front-End"
         }
+        ,
+        {
+            "id": 6,
+            "titulo": "O que faz uma desenvolvedora Front-end?",
+            "capa": "https://i.ytimg.com/vi/Kk3vBRqKA2o/hq720.jpg",
+            "link": "https://youtu.be/Kk3vBRqKA2o",
+            "categoria": "Data-Science"
+        }
+
     ]
 }
