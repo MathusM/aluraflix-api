@@ -2,16 +2,16 @@
     "videos": [
         {
             "id": 1,
-            "titulo": "O labirinto do Logcat",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-            "link": "https://www.youtube.com/embed/ypvGqZGJBls",
+            "titulo": "O que é React JS?",
+            "capa": "https://s3-alpha-sig.figma.com/img/fe78/b8d2/c47b4f537253aaf54057568bc440ced3?Expires=1694390400&Signature=PGAPPpPvpteVDEFAmgMB8mzi25iwektXXJj00STMBGliC4JlUx0Z51UYrTXaTw2nml1iF0aC27KZwFmLM6MeZ2ksB0FK9K4SsjlznySCcl5K6Fb3jTA8mL685ysPzVGhcu68a87WysNNqDqbkedktSAKP0Ze8ZdU-HUbVgXyIagiWItoKeca-GapN~XWf27PVwEEoJJNb776nFRSPrJNU1PatNyXxOiLm9UK7xSRbPQh4M81L3O1oXnI0d0BvpbQOx6z2Hty2Mat4daun44NA1qd7~ud5DjCO~-o6OaO9BrTrm7UFw8yyseL0adWeTUF~OGcUCgjNdzwCOZ894qaqw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+            "link": "https://youtu.be/6IuQUgeDPg0",
             "categoria": "Front-End"
         },
         {
             "id": 2,
-            "titulo": "Um componente no espaço",
-            "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-            "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ",
+            "titulo": "Aprenda React Hooks",
+            "capa": "https://s3-alpha-sig.figma.com/img/68de/ba9b/a364115676b995da62ccaf840988d480?Expires=1694390400&Signature=pT18QrY3FpVThB8qn4fOg0I0tN8XzVDSwvYcsHUt7SwqT-XIYtZxgOJnmvAprK2Y2jvAQlCQwC6Q7EYii-LqPdaCTMx0ka07C7gaWyyfN1OKGCb6qEZy4tnkM7vowXgYjkWl5VeB~vbqn2PdjB9g5UN8hBBOESYp2IbfCJace00nCkVgvUh3NGf-bNS7IAROYnz45LvM8LsM~sr4f~XXrXQnnbYguIXzxgcNlj6JvcdxeS7gZ1sL215xXb4mUw-dg6Y~2whB-LA9XOUqcq16VwTMdzX9GEEmJCcmBh13CA-mP91K2oJQmiJ30Rc4cbRZ2NHiYIgdeSfrpgKTkTsWlQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+            "link": "https://youtu.be/KdQa4Rd6K1A",
             "categoria": "Front-End"
         },
         {
